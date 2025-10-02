@@ -18,7 +18,7 @@ Virtualbox, VMware, AWS, cloud fundamentals
 ## Contact;
 * LinkedIn  www.linkedin.com/in/emma-julien-7462a02b9
 * email:  edj0202@gmail.com
-* GitHub: 
+* GitHub: https://github.com/ejulien27
 
   ## Note:
   This repository is a work in progress and will be updated with projects, certifications, and labs as I fine tune my skills.
