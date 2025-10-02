@@ -13,7 +13,7 @@ TCP/IP, VPNs, Firewalls, DNS, Subnetting, Ports and Protocols
 ## Virtualization and Cloud
 Virtualbox, VMware, AWS, cloud fundamentals
 
-## Projects and Labs (will include later)
+## Projects and Labs (will update)
 * Network Infrastructure Proposal Project:
     * Documentation: [Professional Network Infrastructure Proposal Documentation (PDF)](projects/professional-infrastructure-proposal-project/professional-network-infrastructure-proposal-documentation.pdf) 
     * Presentation: [Network Infrastructure Proposal Presentation (PDF)](projects/professional-infrastructure-proposal-project/professional-network-infrastructure-proposal-presentation.pdf)
