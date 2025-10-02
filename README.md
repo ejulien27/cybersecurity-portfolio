@@ -14,8 +14,10 @@ TCP/IP, VPNs, Firewalls, DNS, Subnetting, Ports and Protocols
 Virtualbox, VMware, AWS, cloud fundamentals
 
 ## Projects and Labs (will include later)
-* Network Infrastructure Proposal Project: 
-## Contact;
+* Network Infrastructure Proposal Project:
+    * Documentation: [Professional Network Infrastructure Proposal Documentation (PDF)](projects/professional-network-infrastructure-proposal-project/professsional-network-infrastructure-proposal-documentation.pdf)
+    * Presentation: [Network Infrastructure Proposal Presentation (PDF)](projects/professional-network-infrastructure-proposal-project/professional-network-infrastructure-proposal-presentation.pdf)
+## Contact:
 * LinkedIn  www.linkedin.com/in/emma-julien-7462a02b9
 * email:  edj0202@gmail.com
 * GitHub: https://github.com/ejulien27
