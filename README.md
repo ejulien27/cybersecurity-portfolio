@@ -10,7 +10,7 @@ Python, Powershell
 Linux, Ubuntu, Windows
 ## Networking Concepts
 TCP/IP, VPNs, Firewalls, DNS, Subnetting, Ports and Protocols
-##Virtualization and Cloud
+## Virtualization and Cloud
 Virtualbox, VMware, AWS, cloud fundamentals
 
 ## Projects and Labs (will include later)
